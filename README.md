@@ -8,19 +8,20 @@ What drives me is creating web applications that combine performance and intuiti
 My goal? To transform bold ideas into digital realities with a touch of creativity and unwavering technical precision.
 
 <h2 align="center">Skills</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.figma.com/resources/learn-design/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://docs.github.com/en" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://learn.microsoft.com/en-us/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+  <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
 
 <h2 align="center">Projects</h2>
@@ -43,11 +44,11 @@ An interactive and responsive frontend application developed with React and CSS.
 >"Simplicity is the soul of efficiency." – Austin Freeman
 
 <h2 align="center">Contact Me</h2>
-Feel free to reach out if you have any questions or if you want to collaborate on a project!
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+<p align="center">
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=mail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+</p>
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
