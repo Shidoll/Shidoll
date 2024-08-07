@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <h2 align="center">About Me</h2>
-<p">Passionate about technology and video games, I dived into development with C++ and C#, languages that sparked my curiosity and fueled my passion. Since then, I have become a versatile full-stack developer, mastering HTML, CSS, JavaScript, PHP, and MySQL.</p>
-
-<p">What drives me is creating web applications that combine performance and intuitiveness. I constantly seek to innovate, crafting captivating user experiences and developing robust solutions that push the boundaries of what's possible.</p>
-
-<p">My goal? To transform bold ideas into digital realities with a touch of creativity and unwavering technical precision.</p>
+Passionate about technology and video games, I dived into development with C++ and C#, languages that sparked my curiosity and fueled my passion. 
+Since then, I have become a versatile full-stack developer, mastering HTML, CSS, JavaScript, PHP, and MySQL.
+What drives me is creating web applications that combine performance and intuitiveness. 
+I constantly seek to innovate, crafting captivating user experiences and developing robust solutions that push the boundaries of what's possible.
 
 <h2 align="center">Skills</h2>
 <p align="center">
@@ -32,11 +31,9 @@ Here are some of my favorite projects:
 </p>
 
 <h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/shidoll/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=shidoll&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/shidoll">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shidoll&layout=compact&langs_count=3&card_width=320&theme=dark" alt="Top Languages" />
-  </a>
-</p>
+<a href="https://github.com/shidoll/shidol.fr">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shidoll&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/shidoll">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shidoll&layout=compact&langs_count=3&card_width=320&theme=dark" />
+</a>
