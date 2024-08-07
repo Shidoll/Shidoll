@@ -45,9 +45,10 @@ An interactive and responsive frontend application developed with React and CSS.
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  - **Email**: <a href="mailto:your.email@example.com" target="_blank">your.email@example.com</a><br>
-  - **LinkedIn**: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a><br>
-  - **Twitter**: <a href="https://twitter.com/yourtwitterhandle" target="_blank">twitter.com/yourtwitterhandle</a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://codepen.io/yourusername" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
 
 <h2 align="center">GitHub Stats</h2>
