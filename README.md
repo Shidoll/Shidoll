@@ -21,14 +21,7 @@ What drives me is creating web applications that combine performance and intuiti
 <h2 align="center">Projects</h2>
 Here are some of my favorite projects:
 
-### [Project 1: Innovative Web App](https://github.com/yourusername/project1)
-A high-performing web application designed to provide an intuitive user experience.
-
-### [Project 2: Robust Backend System](https://github.com/yourusername/project2)
-A backend system built with PHP and MySQL, focusing on scalability and robustness.
-
-### [Project 3: Interactive Frontend](https://github.com/yourusername/project3)
-An interactive and responsive frontend application developed with React and CSS.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shidoll&repo=shidol.fr)](https://github.com/shidoll/shidol.fr)
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
