@@ -37,6 +37,6 @@ Here are some of my favorite projects:
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=shidoll&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shidoll">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shidoll&layout=compact&langs_count=3&theme=dark" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shidoll&layout=compact&langs_count=3&card_width=320&theme=dark" alt="Top Languages" />
   </a>
 </p>
