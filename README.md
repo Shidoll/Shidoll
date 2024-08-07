@@ -1,16 +1,14 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <h2 align="center">About Me</h2>
-<p align="center">
 Passionate about technology and video games, I dived into development with C++ and C#, languages that sparked my curiosity and fueled my passion. Since then, I have become a versatile full-stack developer, mastering HTML, CSS, JavaScript, PHP, and MySQL.
 
 What drives me is creating web applications that combine performance and intuitiveness. I constantly seek to innovate, crafting captivating user experiences and developing robust solutions that push the boundaries of what's possible.
 
 My goal? To transform bold ideas into digital realities with a touch of creativity and unwavering technical precision.
-</p>
 
 <h2 align="center">Skills</h2>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
@@ -26,7 +24,7 @@ My goal? To transform bold ideas into digital realities with a touch of creativi
 </p>
 
 <h2 align="center">Projects</h2>
-<p align="center">Here are some of my favorite projects:</p>
+Here are some of my favorite projects:
 
 ### [Project 1: Innovative Web App](https://github.com/yourusername/project1)
 A high-performing web application designed to provide an intuitive user experience.
@@ -38,22 +36,18 @@ A backend system built with PHP and MySQL, focusing on scalability and robustnes
 An interactive and responsive frontend application developed with React and CSS.
 
 <h2 align="center">Quotes</h2>
-<p align="center">
 >"The best way to predict the future is to invent it." – Alan Kay
 
 >"Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 >"Simplicity is the soul of efficiency." – Austin Freeman
-</p>
 
 <h2 align="center">Contact Me</h2>
-<p align="center">Feel free to reach out if you have any questions or if you want to collaborate on a project!</p>
+Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
-<p align="center">
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/yourprofile)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-</p>
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
