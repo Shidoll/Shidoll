@@ -1,39 +1,87 @@
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+<h1 align="center">Hi, I'm Shidoll! 👋</h1>
 
-<h2 align="center">About Me</h2>
-Passionate about technology and video games, I dived into development with C++ and C#, languages that sparked my curiosity and fueled my passion. 
-Since then, I have become a versatile full-stack developer, mastering HTML, CSS, JavaScript, PHP, and MySQL.
-What drives me is creating web applications that combine performance and intuitiveness. 
-I constantly seek to innovate, crafting captivating user experiences and developing robust solutions that push the boundaries of what's possible.
-
-<h2 align="center">Skills</h2>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <img src="https://your-gif-url.gif" alt="Welcome GIF">
 </p>
 
 <p align="center">
-  GitHub - Visual Studio Code - Figma - Windows - Linux
+  <a href="https://github.com/Shidoll"><img src="https://komarev.com/ghpvc/?username=Shidoll&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
 </p>
 
-<h2 align="center">Projects</h2>
-Here are some of my favorite projects:
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shidoll&repo=shidol.fr)](https://github.com/shidoll/shidol.fr)
+## 🚀 About Me
+- 🔭 I’m currently working on **Angular Full-Stack Projects**
+- 🌱 I’m learning **RxJS, Authentication, and Cloud Deployment**
+- 💡 Passionate about **web development and open-source projects**
+- ⚡ Fun fact: *I love debugging as much as I love coffee! ☕*
 
-<h2 align="center">Contact Me</h2>
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/>
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-<a href="https://github.com/shidoll/shidol.fr">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shidoll&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/shidoll">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shidoll&layout=compact&langs_count=3&card_width=320&theme=dark" />
-</a>
+---
+
+## 🧑‍💻 Skills Overview
+
+| **Category** | **Technologies** |
+|-------------|----------------|
+| **Programming Languages** | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> |
+| **Frontend Development** | <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Backend Development** | <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/> |
+| **Databases** | <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
+| **Frameworks & Libraries** | <img src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/> <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> |
+| **Cloud & Deployment** | <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/> |
+| **Developer Tools** | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> |
+| **Debugging & Testing** | <img src="https://img.shields.io/badge/-Chrome DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
+| **Operating Systems** | <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> |
+
+---
+
+## 🐍 Contribution Snake Game
+
+#### 🟢 Version claire
+<p align="center">
+  <img src="https://github.com/Shidoll/Shidoll/blob/output/github-snake.svg" alt="Snake animation">
+</p>
+
+#### 🌙 Version sombre
+<p align="center">
+  <img src="https://github.com/Shidoll/Shidoll/blob/output/github-snake-dark.svg" alt="Snake animation">
+</p>
+
+#### 🎞️ Version GIF animée
+<p align="center">
+  <img src="https://github.com/Shidoll/Shidoll/blob/output/ocean.gif" alt="Snake animation">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shidoll&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shidoll&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ton-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://ton-site.com"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=web&logoColor=white"/></a>
+</p>
+
+---
+
+🚀 *Let's build awesome projects together!*
