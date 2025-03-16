@@ -46,22 +46,12 @@
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐍 Contribution 
 
-#### 🟢 Version claire
 <p align="center">
-  <img src="https://github.com/Shidoll/Shidoll/blob/output/github-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Shidoll/Shidoll/main/output/github-snake-dark.svg" alt="Snake animation">
 </p>
 
-#### 🌙 Version sombre
-<p align="center">
-  <img src="https://github.com/Shidoll/Shidoll/blob/output/github-snake-dark.svg" alt="Snake animation">
-</p>
-
-#### 🎞️ Version GIF animée
-<p align="center">
-  <img src="https://github.com/Shidoll/Shidoll/blob/output/ocean.gif" alt="Snake animation">
-</p>
 
 ---
 
