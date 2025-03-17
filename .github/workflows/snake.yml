@@ -2,11 +2,11 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Exécute tous les jours à minuit UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write  # Autorise GitHub Actions à écrire dans le dépôt
+  contents: write
 
 jobs:
   generate:
@@ -20,7 +20,9 @@ jobs:
         with:
           github_user_name: Shidoll
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push Snake Game to Repository
         run: |
