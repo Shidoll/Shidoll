@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Exécute tous les jours à minuit UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # Permet à l'action d'écrire dans le dépôt
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,18 +22,15 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Set Git Permissions
-        run: |
-          sudo chown -R $(whoami) dist/
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-
       - name: Push Snake Game to Repository
         run: |
           mkdir -p output
           mv dist/* output/
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
           git add output/
           git commit -m "Updated Snake Game contribution graph" || echo "No changes to commit"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
