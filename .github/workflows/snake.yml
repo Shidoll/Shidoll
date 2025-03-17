@@ -22,18 +22,19 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Copy Snake Game to Output  # ✅ Utilisation de `cp` au lieu de `mv`
-        run: |
-          mkdir -p output
-          cp dist/* output/
+      - name: Ensure Output Directory Exists
+        run: mkdir -p output
 
+      - name: Copy Snake Game to Output
+        run: cp dist/snake-dark.svg output/snake-dark.svg
+        
       - name: Push Snake Game to Repository
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add output/
-          git commit -m "Updated Snake Game contribution graph" || echo "No changes to commit"
-          git pull --rebase origin main  # Synchroniser avec la dernière version du dépôt
+          git add output/snake-dark.svg
+          git commit -m "Updated weekly Snake Game animation" || echo "No changes to commit"
+          git pull --rebase origin main  # Synchronisation pour éviter les conflits
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
