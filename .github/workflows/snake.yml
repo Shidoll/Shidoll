@@ -14,19 +14,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Récupère tout l'historique pour éviter les conflits
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Shidoll
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Fix File Permissions  # 🔧 Nouvelle étape pour corriger les permissions
-        run: |
-          chmod -R 777 dist/
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake Game to Repository
         run: |
@@ -36,8 +30,6 @@ jobs:
           git config --global user.name "GitHub Actions"
           git add output/
           git commit -m "Updated Snake Game contribution graph" || echo "No changes to commit"
-          git pull --rebase origin main  # Synchroniser avec la dernière version du dépôt
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
