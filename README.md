@@ -49,7 +49,7 @@
 ## 🐍 Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shidoll/Shidoll/main/output/github-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Shidoll/Shidoll/main/output/snake-dark.svg" alt="Snake animation">
 </p>
 
 
