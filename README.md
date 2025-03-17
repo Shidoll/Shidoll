@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shidoll! 👋</h1>
+<h1 align="center">Hi, I'm Shidol! 👋</h1>
 
 <p align="center">
   <img src="https://your-gif-url.gif" alt="Welcome GIF">
