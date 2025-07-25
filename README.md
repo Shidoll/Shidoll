@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Angular Full-Stack Projects**
+- 🔭 I’m currently working on **ReactJs Full-Stack Projects**
 - 🌱 I’m learning **RxJS, Authentication, and Cloud Deployment**
 - 💡 Passionate about **web development and open-source projects**
 - ⚡ Fun fact: *I love debugging as much as I love coffee! ☕*
