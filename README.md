@@ -1,44 +1,53 @@
-<div align="center"> 
+<div align="center">
 
 # ⚡ SEIGFRIED CACHELEUX
-**Tech Lead & DevOps | Président Pôle System @ Get-Media** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seigfried-cacheleux)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://cacheleux.dev)
+**Tech Lead Fullstack & Infrastructure | Expert GitOps & Souveraineté**
 
-*Architecte de solutions à impact humain, du code au déploiement souverain.* --- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seigfried-cacheleux)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cacheleux.dev)
 
-</div> 
-
-### 🚀 À propos de moi 
-
-- 👨‍💻 **Tech Lead** : Je dirige l'équipe de développement chez **Get-Media** sur des stacks **Angular**, **Node.js** et **NestJS**. 
-- 🏗️ **DevOps & Infra** : Passionné par le **Self-Hosting** et le **Zero Trust**. Je pilote des infrastructures sous **Docker** avec des pipelines **CI/CD** automatisés. 
-- 🔐 **Systèmes** : Expert en administration **Microsoft 365 / Entra ID** et gestion réseau (DNS, VPN, Routeurs). 
-- 💡 **Ma philosophie** : Concevoir des écosystèmes scalables, sécurisés et centrés sur l'utilisateur. 
-
---- 
-
-### 🛠️ Stack Technique 
-
-<div align="center">  
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,ts,js,mysql,postgres&theme=dark" alt="Dev & SQL Stack" /> 
-  </a> 
-  <br><br> 
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,proxmox,nginx,azure,bash&theme=dark" alt="Infra & Sys Stack" /> 
-  </a> 
-</div> 
-
---- 
-
-### 📂 Projets & Activités 
-
-- 🌐 **Get-Media System** : Architecture d'une infrastructure souveraine et sécurisée pour des solutions humaines.
-- ⚙️ **Automatisation CI/CD** : Déploiement de pipelines pour optimiser le cycle de vie de nos applications.
-- ☁️ **Cloud & Identité** : Administration et sécurisation d'environnements Microsoft 365 critiques (Entra ID).
+*Architecture SaaS, Résilience (PRA/PCA) et Déploiement Cloud.*
+<br>
+</div>
 
 ---
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Shidoll&label=Vues+du+profil&color=5c6370&style=flat-square" alt="Vues" /> 
+### 🚀 À propos de moi
+
+Passionné par le développement SaaS et l'architecture système, je conçois et déploie des solutions techniques complètes, performantes et sécurisées. Mon quotidien s'articule autour de plusieurs axes d'ingénierie :
+
+- 👨‍💻 **Tech Lead Fullstack** : Architecture et développement continu de services SaaS métiers (hébergement, drive) en **Go**, **TypeScript** et **React.js**.
+- 🏗️ **Infrastructure & GitOps** : Déploiement d'infrastructures conteneurisées (**Kubernetes**, **Docker**) avec automatisation CI/CD (**Woodpecker**, **ArgoCD**) et IaC (**Terraform**, **Ansible**).
+- 🔐 **Sécurité & Résilience** : Modélisation d'architectures **ISO 27001** (Zero Trust) et implémentation de stratégies de résilience (**PRA / PCA**) sur des serveurs on-premise (**Proxmox**).
+- ☁️ **Cloud & Corporate** : Ingénieur Build spécialisé dans le déploiement, la migration et la sécurisation d'environnements critiques **Microsoft 365 / Entra ID** à grande échelle.
+
+---
+
+### 🛠️ Stack Technique & Outils
+
+<div align="center">
+  <p><strong>Développement & Architecture</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ts,react,nodejs,postgres,bash&theme=dark" alt="Dev Stack" />
+  </a>
+  <br><br>
+  <p><strong>Infrastructure, Cloud & DevOps</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,linux,azure&theme=dark" alt="Infra Stack" />
+  </a>
+</div>
+
+---
+
+### 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shidoll&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e" alt="Stats GitHub de Seigfried" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shidoll&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e" alt="Stats de contribution" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shidoll&label=Vues+du+profil&color=2563eb&style=for-the-badge" alt="Vues" />
 </div>
